@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="camera">Camera</string>
+    <string name="tvname">해먹자</string>
+</resources>
